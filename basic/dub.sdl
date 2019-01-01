@@ -1,0 +1,5 @@
+name "learn1"
+description "A minimal D application."
+authors "Alexius Academia"
+copyright "Copyright © 2019, Alexius Academia"
+license "Boost 1.0"
