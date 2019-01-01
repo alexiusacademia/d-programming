@@ -12,3 +12,5 @@ learn1-test-*
 *.o
 *.obj
 *.lst
+function_basic
+function_ref
