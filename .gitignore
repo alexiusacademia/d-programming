@@ -16,3 +16,4 @@ function_basic
 function_ref
 associative_array
 array_simple
+enum
