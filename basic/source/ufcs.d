@@ -11,6 +11,6 @@ void main() {
 }
 
 // Universal function call syntax
-auto show(string str) {
+void show(string str) {
     writeln(str);
 }
