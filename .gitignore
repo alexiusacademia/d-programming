@@ -19,3 +19,4 @@ array_simple
 array_slice
 enum
 string_immutable
+ufcs
